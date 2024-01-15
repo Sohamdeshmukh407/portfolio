@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soham Deshmukh - Portfolio</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #8010e9;
+            color: #185905;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #b9f007;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2, h3 {
+            color: #0425dd;
+        }
+
+        h1 {
+            margin-bottom: 10px;
+        }
+
+        p {
+            text-align: justify;
+            line-height: 1.5;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        footer {
+            background-color: #3498db;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Soham Deshmukh</h1>
+        <h2>HTML Coder | Java Developer | CSS Developer | Python Developer</h2>
+        <p>Contact: sohamdeshmukh@gmail.com</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            Hi, I'm Soham Deshmukh, a passionate developer with expertise in HTML, Java, CSS, and Python. I love crafting
+            beautiful and efficient solutions for web development.
+        </p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML Coding</li>
+            <li>Java Development</li>
+            <li>CSS Styling</li>
+            <li>Python Programming</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <h3>Oasis Infobyte - Web Development</h3>
+        <p>
+            Worked on designing and developing responsive and user-friendly websites for clients in various industries.
+            Implemented modern HTML, CSS, and JavaScript techniques to enhance the overall user experience.
+        </p>
+
+        <h3>Ad Infocom System - Java Application</h3>
+        <p>
+            Developed a robust Java application for managing and analyzing data efficiently. Implemented features for data
+            visualization and user interaction, ensuring a seamless experience for end-users.
+        </p>
+    </section>
+
+    <section>
+        <h2>Experience</h2>
+        <h3>Web Developer | Oasis Infobyte</h3>
+        <p>
+            Worked collaboratively with a team of developers and designers to create dynamic and visually appealing websites.
+            Responsible for implementing client requirements and ensuring optimal performance across various devices.
+        </p>
+
+        <h3>Java Developer | Ad Infocom System</h3>
+        <p>
+            Led the development of a Java application, focusing on robustness, scalability, and user-centric design. Collaborated
+            with stakeholders to gather requirements and deliver a product that exceeded expectations.
+        </p>
+    </section>
+
+    <footer>
+        &copy; 2024 Soham Deshmukh - Portfolio
+    </footer>
+</body>
+</html>
